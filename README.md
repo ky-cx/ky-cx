@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Conghui Xu
 
-### 💻 Full-Stack Software Engineer | 🎓 MSc Computing @ St Andrews
+### 💻 Full-Stack Software Engineer | 🎓 MSc CS @ Uni of St Andrews 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cx27)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ky-cx.github.io)
@@ -11,72 +11,62 @@
 </div>
 
 ---
-
-## 🚀 About Me
-## 🚀 About Me
-````python
-class SoftwareEngineer:
-...
-````
-
----
-
-### **Step 3: 替换成终端风格**
-
-**删除整个About Me部分**，替换成这个：
-````markdown
-## 💻 About Me
-```bash
-$ ssh conghui@github.dev
-Welcome to Conghui Xu's Development Environment
-Last login: Wed Nov 12 15:50:36 2025
-
-conghui@dev:~$ neofetch
-                   -`                    conghui@github
-                  .o+`                   ─────────────────
-                 `ooo/                   OS: Full-Stack Engineer
-                `+oooo:                  Host: Edinburgh, UK
-               `+oooooo:                 Kernel: Python-3.x.x
-               -+oooooo+:                Uptime: 25 years
-             `/:-:++oooo+:               Packages: C#, JS, SQL
-            `/++++/+++++++:              Shell: zsh + vim
-           `/++++++++++++++:             Resolution: 4K Problems/day
-          `/+++ooooooooooooo/`           DE: VS Code + IntelliJ
-         ./ooosssso++osssssso+`          Theme: Dracula + Monokai
-        .oossssso-````/ossssss+`         Icons: Font Awesome
-       -osssssso.      :ssssssso.        Terminal: iTerm2 + tmux
-      :osssssss/        osssso+++.       CPU: Coffee + Determination
-     /ossssssss/        +ssssooo/-       GPU: Neural Networks
-   `/ossssso+/:-        -:/+osssso+-     Memory: Infinite learning
-  `+ssssooo:-`                 `.-/+oo:  Disk: ~/projects, ~/ideas
- `++::.`..`                          `-  Languages: 🇨🇳🇬🇧🇩🇪
-
-conghui@dev:~$ cat current_status.txt
-→ Building scalable applications with Python, C#, JavaScript
-→ Actively seeking opportunities in Germany 🇩🇪 & Netherlands 🇳🇱
-→ Open to interesting projects and collaborations
-→ Learning German (B1 → B2 in progress...)
-
-conghui@dev:~$ ls ~/expertise
-django/  fastapi/  dotnet/  react/  postgresql/  docker/  git/  linux/
-
-conghui@dev:~$ cat ~/work_experience/recent.log
-[2024-NOW]    Ondox     | Software Engineer        | C#/.NET, SQL Server
-[2024-2025]   Outlier   | AI Trainer               | Model Optimization
-[2024-2025]   Palantir  | Software Engineer        | Django, Internal Tools
-
-conghui@dev:~$ ./check_availability.sh
-✓ Available for hire
-✓ Open to remote work
-✓ Willing to relocate (Germany/Netherlands)
-✓ Ready to start immediately
-
-conghui@dev:~$ echo $MOTTO
-"Code. Build. Deploy. Repeat. 🚀"
-
-conghui@dev:~$ █
+## 🌃 About Me
 ```
-````
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║     ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄        ▄  ▄▄▄▄▄▄▄▄▄▄▄       ║
+║    ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░▌      ▐░▌▐░░░░░░░░░░░▌      ║
+║    ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░▌░▌     ▐░▌▐░█▀▀▀▀▀▀▀▀▀       ║
+║    ▐░▌          ▐░▌       ▐░▌▐░▌▐░▌    ▐░▌▐░▌                ║
+║    ▐░▌          ▐░▌       ▐░▌▐░▌ ▐░▌   ▐░▌▐░▌  ▄▄▄▄▄▄▄▄      ║
+║    ▐░▌          ▐░▌       ▐░▌▐░▌  ▐░▌  ▐░▌▐░▌ ▐░░░░░░░░▌     ║
+║    ▐░▌          ▐░▌       ▐░▌▐░▌   ▐░▌ ▐░▌▐░▌  ▀▀▀▀▀▀█░▌     ║
+║    ▐░▌          ▐░▌       ▐░▌▐░▌    ▐░▌▐░▌▐░▌       ▐░▌     ║
+║    ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░▌     ▐░▐░▌▐░█▄▄▄▄▄▄▄█░▌     ║
+║    ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌      ▐░░▌▐░░░░░░░░░░░▌      ║
+║     ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀        ▀▀  ▀▀▀▀▀▀▀▀▀▀▀       ║
+║                                                               ║
+║   ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓   ║
+║   ┃  🎯 TARGET: Software Engineer Role                   ┃   ║
+║   ┃  📍 LOCATION: Edinburgh → Germany/Netherlands        ┃   ║
+║   ┃  💻 SPECIALIZATION: Full-Stack Development          ┃   ║
+║   ┃  ⚡ POWER LEVEL: Over 9000!                         ┃   ║
+║   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛   ║
+║                                                               ║
+║   ╔═══ NEURAL NETWORK ARCHITECTURE ═══╗                     ║
+║   ║                                    ║                     ║
+║   ║  Layer 1: Python ████████ 95%     ║                     ║
+║   ║  Layer 2: C#/.NET ████████ 90%    ║                     ║
+║   ║  Layer 3: JavaScript ██████ 85%   ║                     ║
+║   ║  Layer 4: SQL ████████ 88%        ║                     ║
+║   ║  Layer 5: German ██████ 65%       ║                     ║
+║   ║                                    ║                     ║
+║   ╚════════════════════════════════════╝                     ║
+║                                                               ║
+║   🔧 TECH STACK:                                             ║
+║   ► Backend: Django | FastAPI | .NET Core                    ║
+║   ► Frontend: React | HTML5 | CSS3                           ║
+║   ► Database: PostgreSQL | SQL Server                        ║
+║   ► DevOps: Docker | Git | Linux                             ║
+║                                                               ║
+║   💼 EXPERIENCE LOG:                                         ║
+║   [2024-NOW]  Ondox         → Software Engineer              ║
+║   [2024-2025] Outlier       → AI Trainer                     ║
+║   [2024-2025] Palantir      → Software Engineer              ║
+║                                                               ║
+║   🌐 COMMUNICATION PROTOCOLS:                                ║
+║   → 中文 (Native Encryption)                                 ║
+║   → English (Fluent Stream)                                  ║
+║   → Deutsch (B1 Encoding)                                    ║
+║                                                               ║
+║   🚀 MISSION: Build scalable, efficient, and elegant code   ║
+║   🎯 STATUS: Ready for deployment in EU tech ecosystem      ║
+║                                                               ║
+║   [CONNECT]  [VIEW_PROJECTS]  [HIRE_ME]                     ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 ---
 
 ## 🛠️ Tech Stack

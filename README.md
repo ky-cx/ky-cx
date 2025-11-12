@@ -13,27 +13,70 @@
 ---
 
 ## 🚀 About Me
-```python
+## 🚀 About Me
+````python
 class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Conghui Xu"
-        self.role = "Full-Stack Software Engineer"
-        self.location = "Edinburgh, UK 🇬🇧"
-        self.seeking = ["Germany 🇩🇪", "Netherlands 🇳🇱"]
-        self.languages = {
-            "spoken": ["Chinese 🇨🇳", "English 🇬🇧", "German 🇩🇪 (B1)"],
-            "programming": ["Python", "C#", "JavaScript", "SQL"]
-        }
-        
-    def current_focus(self):
-        return [
-            "Building full-stack applications with Python/Django & C#/.NET",
-            "Seeking software engineering opportunities in Germany & Netherlands",
-            "Learning German (B1 level and improving!)",
-            "Contributing to open-source projects"
-        ]
-```
+...
+````
 
+---
+
+### **Step 3: 替换成终端风格**
+
+**删除整个About Me部分**，替换成这个：
+````markdown
+## 💻 About Me
+```bash
+$ ssh conghui@github.dev
+Welcome to Conghui Xu's Development Environment
+Last login: Wed Nov 12 15:50:36 2025
+
+conghui@dev:~$ neofetch
+                   -`                    conghui@github
+                  .o+`                   ─────────────────
+                 `ooo/                   OS: Full-Stack Engineer
+                `+oooo:                  Host: Edinburgh, UK
+               `+oooooo:                 Kernel: Python-3.x.x
+               -+oooooo+:                Uptime: 25 years
+             `/:-:++oooo+:               Packages: C#, JS, SQL
+            `/++++/+++++++:              Shell: zsh + vim
+           `/++++++++++++++:             Resolution: 4K Problems/day
+          `/+++ooooooooooooo/`           DE: VS Code + IntelliJ
+         ./ooosssso++osssssso+`          Theme: Dracula + Monokai
+        .oossssso-````/ossssss+`         Icons: Font Awesome
+       -osssssso.      :ssssssso.        Terminal: iTerm2 + tmux
+      :osssssss/        osssso+++.       CPU: Coffee + Determination
+     /ossssssss/        +ssssooo/-       GPU: Neural Networks
+   `/ossssso+/:-        -:/+osssso+-     Memory: Infinite learning
+  `+ssssooo:-`                 `.-/+oo:  Disk: ~/projects, ~/ideas
+ `++::.`..`                          `-  Languages: 🇨🇳🇬🇧🇩🇪
+
+conghui@dev:~$ cat current_status.txt
+→ Building scalable applications with Python, C#, JavaScript
+→ Actively seeking opportunities in Germany 🇩🇪 & Netherlands 🇳🇱
+→ Open to interesting projects and collaborations
+→ Learning German (B1 → B2 in progress...)
+
+conghui@dev:~$ ls ~/expertise
+django/  fastapi/  dotnet/  react/  postgresql/  docker/  git/  linux/
+
+conghui@dev:~$ cat ~/work_experience/recent.log
+[2024-NOW]    Ondox     | Software Engineer        | C#/.NET, SQL Server
+[2024-2025]   Outlier   | AI Trainer               | Model Optimization
+[2024-2025]   Palantir  | Software Engineer        | Django, Internal Tools
+
+conghui@dev:~$ ./check_availability.sh
+✓ Available for hire
+✓ Open to remote work
+✓ Willing to relocate (Germany/Netherlands)
+✓ Ready to start immediately
+
+conghui@dev:~$ echo $MOTTO
+"Code. Build. Deploy. Repeat. 🚀"
+
+conghui@dev:~$ █
+```
+````
 ---
 
 ## 🛠️ Tech Stack

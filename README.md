@@ -14,57 +14,45 @@
 ## 🌃 About Me
 ```
 ╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║     ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄        ▄  ▄▄▄▄▄▄▄▄▄▄▄       ║
-║    ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░▌      ▐░▌▐░░░░░░░░░░░▌      ║
-║    ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░▌░▌     ▐░▌▐░█▀▀▀▀▀▀▀▀▀       ║
-║    ▐░▌          ▐░▌       ▐░▌▐░▌▐░▌    ▐░▌▐░▌                ║
-║    ▐░▌          ▐░▌       ▐░▌▐░▌ ▐░▌   ▐░▌▐░▌  ▄▄▄▄▄▄▄▄      ║
-║    ▐░▌          ▐░▌       ▐░▌▐░▌  ▐░▌  ▐░▌▐░▌ ▐░░░░░░░░▌     ║
-║    ▐░▌          ▐░▌       ▐░▌▐░▌   ▐░▌ ▐░▌▐░▌  ▀▀▀▀▀▀█░▌     ║
-║    ▐░▌          ▐░▌       ▐░▌▐░▌    ▐░▌▐░▌▐░▌       ▐░▌     ║
-║    ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░▌     ▐░▐░▌▐░█▄▄▄▄▄▄▄█░▌     ║
-║    ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌      ▐░░▌▐░░░░░░░░░░░▌      ║
-║     ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀        ▀▀  ▀▀▀▀▀▀▀▀▀▀▀       ║
-║                                                               ║
-║   ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓   ║
-║   ┃  🎯 TARGET: Software Engineer Role                   ┃   ║
-║   ┃  📍 LOCATION: Edinburgh → Germany/Netherlands        ┃   ║
-║   ┃  💻 SPECIALIZATION: Full-Stack Development          ┃   ║
-║   ┃  ⚡ POWER LEVEL: Over 9000!                         ┃   ║
-║   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛   ║
-║                                                               ║
-║   ╔═══ NEURAL NETWORK ARCHITECTURE ═══╗                     ║
-║   ║                                    ║                     ║
-║   ║  Layer 1: Python ████████ 95%     ║                     ║
-║   ║  Layer 2: C#/.NET ████████ 90%    ║                     ║
-║   ║  Layer 3: JavaScript ██████ 85%   ║                     ║
-║   ║  Layer 4: SQL ████████ 88%        ║                     ║
-║   ║  Layer 5: German ██████ 65%       ║                     ║
-║   ║                                    ║                     ║
-║   ╚════════════════════════════════════╝                     ║
-║                                                               ║
-║   🔧 TECH STACK:                                             ║
-║   ► Backend: Django | FastAPI | .NET Core                    ║
-║   ► Frontend: React | HTML5 | CSS3                           ║
-║   ► Database: PostgreSQL | SQL Server                        ║
-║   ► DevOps: Docker | Git | Linux                             ║
-║                                                               ║
-║   💼 EXPERIENCE LOG:                                         ║
-║   [2024-NOW]  Ondox         → Software Engineer              ║
-║   [2024-2025] Outlier       → AI Trainer                     ║
-║   [2024-2025] Palantir      → Software Engineer              ║
-║                                                               ║
-║   🌐 COMMUNICATION PROTOCOLS:                                ║
-║   → 中文 (Native Encryption)                                 ║
-║   → English (Fluent Stream)                                  ║
-║   → Deutsch (B1 Encoding)                                    ║
-║                                                               ║
-║   🚀 MISSION: Build scalable, efficient, and elegant code   ║
-║   🎯 STATUS: Ready for deployment in EU tech ecosystem      ║
-║                                                               ║
-║   [CONNECT]  [VIEW_PROJECTS]  [HIRE_ME]                     ║
-║                                                               ║
+║                                                               ║
+║     ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄        ▄  ▄▄▄▄▄▄▄▄▄▄▄       ║
+║    ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░▌      ▐░▌▐░░░░░░░░░░░▌      ║
+║    ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░▌░▌     ▐░▌▐░█▀▀▀▀▀▀▀▀▀       ║
+║    ▐░▌          ▐░▌       ▐░▌▐░▌▐░▌    ▐░▌▐░▌                ║
+║    ▐░▌          ▐░▌       ▐░▌▐░▌ ▐░▌   ▐░▌▐░▌  ▄▄▄▄▄▄▄▄      ║
+║    ▐░▌          ▐░▌       ▐░▌▐░▌  ▐░▌  ▐░▌▐░▌ ▐░░░░░░░░▌     ║
+║    ▐░▌          ▐░▌       ▐░▌▐░▌   ▐░▌ ▐░▌▐░▌  ▀▀▀▀▀▀█░▌     ║
+║    ▐░▌          ▐░▌       ▐░▌▐░▌    ▐░▌▐░▌▐░▌       ▐░▌     ║
+║    ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░▌     ▐░▐░▌▐░█▄▄▄▄▄▄▄█░▌     ║
+║    ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌      ▐░░▌▐░░░░░░░░░░░▌      ║
+║     ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀        ▀▀  ▀▀▀▀▀▀▀▀▀▀▀       ║
+║                                                               ║
+║   ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓   ║
+║   ┃  🎓 EDUCATION: MSc CS @ University of St Andrews     ┃   ║
+║   ┃  📍 FOCUS: Full-Stack Development / EU Opportunities ┃   ║
+║   ┃  ⚡ POWER LEVEL: Over 9000!                         ┃   ║
+║   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛   ║
+║                                                               ║
+║   ╔═══ NEURAL NETWORK ARCHITECTURE (SKILL WEIGHTS) ═══╗     ║
+║   ║                                    ║                     ║
+║   ║  Layer 1: Python ████████ 95%     ║                     ║
+║   ║  Layer 2: C#/.NET ████████ 90%    ║                     ║
+║   ║  Layer 3: JavaScript ██████ 85%   ║                     ║
+║   ║  Layer 4: SQL ████████ 88%        ║                     ║
+║   ║  Layer 5: German ██████ 65%       ║                     ║
+║   ║                                    ║                     ║
+║   ╚════════════════════════════════════╝                     ║
+║                                                               ║
+║   🌐 COMMUNICATION PROTOCOLS:                                ║
+║   → 中文 (Native Encryption)                                 ║
+║   → English (Fluent Stream)                                  ║
+║   → Deutsch (B1 Encoding)                                    ║
+║                                                               ║
+║   🚀 MISSION: Build scalable, efficient, and elegant code   ║
+║   🎯 STATUS: Ready for deployment in EU tech ecosystem      ║
+║                                                               ║
+║   [CONNECT]  [VIEW_PROJECTS]  [HIRE_ME]                     ║
+║                                                               ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 ---

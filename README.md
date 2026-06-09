@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Conghui Xu
+# 👋 Hi, I'm Conghui
 
 ### 💻 Full-Stack Software Engineer | 🎓 MSc CS @ Uni of St Andrews 
 

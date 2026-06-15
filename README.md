@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Conghui
 
-### 💻 Full-Stack Software Engineer | 🎓 MSc Computer Science
+### 💻 Full-Stack Software Engineer | 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ky-cx.github.io)
 
@@ -11,7 +11,7 @@
 ---
 ## 🌃 About Me
 
-- 🎓 MSc Computer Science graduate
+- 🎓 University of St Andrews Computer Science graduate
 - 💻 Focus: Full-Stack Development
 - 🎯 Open to software engineering opportunities
 

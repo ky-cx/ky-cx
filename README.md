@@ -2,59 +2,19 @@
   
 # 👋 Hi, I'm Conghui
 
-### 💻 Full-Stack Software Engineer | 🎓 MSc CS @ Uni of St Andrews 
+### 💻 Full-Stack Software Engineer | 🎓 MSc Computer Science
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cx27)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ky-cx.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsuconghui@gmail.com)
 
 </div>
 
 ---
 ## 🌃 About Me
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║     ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄        ▄  ▄▄▄▄▄▄▄▄▄▄▄       ║
-║    ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░▌      ▐░▌▐░░░░░░░░░░░▌      ║
-║    ▐░█▀▀▀▀▀▀▀▀▀ ▐░█▀▀▀▀▀▀▀█░▌▐░▌░▌     ▐░▌▐░█▀▀▀▀▀▀▀▀▀       ║
-║    ▐░▌          ▐░▌       ▐░▌▐░▌▐░▌    ▐░▌▐░▌                ║
-║    ▐░▌          ▐░▌       ▐░▌▐░▌ ▐░▌   ▐░▌▐░▌  ▄▄▄▄▄▄▄▄      ║
-║    ▐░▌          ▐░▌       ▐░▌▐░▌  ▐░▌  ▐░▌▐░▌ ▐░░░░░░░░▌     ║
-║    ▐░▌          ▐░▌       ▐░▌▐░▌   ▐░▌ ▐░▌▐░▌  ▀▀▀▀▀▀█░▌     ║
-║    ▐░▌          ▐░▌       ▐░▌▐░▌    ▐░▌▐░▌▐░▌       ▐░▌     ║
-║    ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄█░▌▐░▌     ▐░▐░▌▐░█▄▄▄▄▄▄▄█░▌     ║
-║    ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░▌      ▐░░▌▐░░░░░░░░░░░▌      ║
-║     ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀        ▀▀  ▀▀▀▀▀▀▀▀▀▀▀       ║
-║                                                               ║
-║   ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓   ║
-║   ┃  🎓 EDUCATION: MSc CS @ University of St Andrews     ┃   ║
-║   ┃  📍 FOCUS: Full-Stack Development / EU Opportunities ┃   ║
-║   ┃  ⚡ POWER LEVEL: Over 9000!                         ┃   ║
-║   ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛   ║
-║                                                               ║
-║   ╔═══ NEURAL NETWORK ARCHITECTURE (SKILL WEIGHTS) ═══╗     ║
-║   ║                                    ║                     ║
-║   ║  Layer 1: Python ████████ 95%     ║                     ║
-║   ║  Layer 2: C#/.NET ████████ 90%    ║                     ║
-║   ║  Layer 3: JavaScript ██████ 85%   ║                     ║
-║   ║  Layer 4: SQL ████████ 88%        ║                     ║
-║   ║  Layer 5: German ██████ 65%       ║                     ║
-║   ║                                    ║                     ║
-║   ╚════════════════════════════════════╝                     ║
-║                                                               ║
-║   🌐 COMMUNICATION PROTOCOLS:                                ║
-║   → 中文 (Native Encryption)                                 ║
-║   → English (Fluent Stream)                                  ║
-║   → Deutsch (B1 Encoding)                                    ║
-║                                                               ║
-║   🚀 MISSION: Build scalable, efficient, and elegant code   ║
-║   🎯 STATUS: Ready for deployment in EU tech ecosystem      ║
-║                                                               ║
-║   [CONNECT]  [VIEW_PROJECTS]  [HIRE_ME]                     ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+
+- 🎓 MSc Computer Science graduate
+- 💻 Focus: Full-Stack Development
+- 🎯 Open to software engineering opportunities
+
 ---
 
 ## 🛠️ Tech Stack
@@ -83,22 +43,21 @@
 
 ## 💼 What I'm Working On
 
-- 🔭 Building enterprise automation solutions with C# and .NET at Ondox
+- 🔭 Building enterprise automation solutions with C# and .NET
 - 🌱 Exploring system design, cloud architecture, and distributed systems
-- 🎯 Open to software engineering opportunities in Germany and Netherlands
-- 📚 Improving German language skills (currently B1 level)
-  
+- 🎯 Open to software engineering opportunities
+
 ## 💡 Experience Highlights 
 
-🔹 **Software Engineer** @ Ondox (Oct 2025 - Present)  
+🔹 **Software Engineer** — Enterprise Applications  
    - Building enterprise applications with C#/.NET and SQL Server
    - Collaborating with cross-functional teams on Agile projects
 
-🔹 **AI Trainer** @ Outlier (Dec 2024 - Aug 2025)  
+🔹 **AI Trainer**  
    - Optimized AI model performance through data analysis
    - Collaborated with engineers and data scientists
 
-🔹 **Software Engineer** @ Palantir Fellowship (Dec 2024 - Feb 2025)  
+🔹 **Software Engineer** — Fellowship Program  
    - Developed Django-based internal tools and reporting systems
    - Built workflows portal serving 100+ users
 
@@ -106,27 +65,27 @@
 
 ## 🎯 Featured Projects
 
-### 🐍 [Snake Game - C# Console](https://github.com/ky-cx/snake-game-csharp)
+### 🐍 Snake Game - C# Console
 Classic Snake game demonstrating OOP principles, game loops, and collision detection algorithms.  
 **Tech:** C#, .NET 10.0 | **Skills:** OOP, Algorithms, Game Development
 
-### 🤖 [Face Segmentation API](https://github.com/ky-cx/qoves-face-segmentation)
+### 🤖 Face Segmentation API
 ML-powered face detection API with async processing using Celery and Redis.  
 **Tech:** FastAPI, Celery, Redis, ML | **Skills:** API Design, Async Processing
 
-### 📊 [Task Manager API](https://github.com/ky-cx/task-manager-api)
+### 📊 Task Manager API
 RESTful API with CRUD operations and interactive Swagger documentation.  
 **Tech:** FastAPI, Python, Pydantic | **Skills:** REST API, Data Validation
 
-### 🏛️ [Arches Database System](https://github.com/ky-cx/arches-via-docker)
-Cultural heritage database platform for Polish Paratroopers Memory Hall (MSc Dissertation).  
+### 🏛️ Arches Database System
+Cultural heritage database platform (MSc Dissertation).  
 **Tech:** Docker, Django, PostgreSQL | **Skills:** Database Design, Deployment
 
 ---
 
 ## 🌟 Currently Learning
 
-- 🇩🇪 Advanced German (working towards B2)
+- 🇩🇪 Advanced German
 - 🎮 Game development with Unity
 - 🧠 Advanced algorithms and data structures
 - ☁️ Cloud platforms (AWS, Azure)
@@ -135,10 +94,6 @@ Cultural heritage database platform for Polish Paratroopers Memory Hall (MSc Dis
 
 ## 📫 Let's Connect!
 
-I'm actively seeking software engineering opportunities in **Germany** and **Netherlands**!
-
-- 💼 [LinkedIn](https://linkedin.com/in/cx27)
-- 📧 [Email](mailto:hsuconghui@gmail.com)
 - 🌐 [Portfolio](https://ky-cx.github.io)
 - 💻 Open to collaborate on interesting projects!
 
@@ -148,5 +103,4 @@ I'm actively seeking software engineering opportunities in **Germany** and **Net
 
 ### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=ky-cx&color=blueviolet&style=flat-square)
-
+</div>

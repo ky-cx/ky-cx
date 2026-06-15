@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Conghui
 
-### 💻 Full-Stack Software Engineer | 
+### 💻 Full-Stack Software Engineer 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ky-cx.github.io)
 

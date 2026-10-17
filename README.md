@@ -5,7 +5,7 @@
 **Full-stack software engineer**
 TypeScript · React · Node.js · C# / .NET
 
-MSc Advanced Computer Science, University of Strathclyde · Perth, UK
+MSc Advanced Computer Science, University of St Andrews · Perth, UK
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://ky-cx.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cx27)
